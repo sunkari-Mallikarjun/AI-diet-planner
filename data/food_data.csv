@@ -1,0 +1,10 @@
+food,calories,protein,fat,carbs,diet_type
+Paneer,250,18,20,4,veg
+Chapati,80,3,2,15,veg
+Rice,130,2,0,28,veg
+Egg,70,6,5,1,non-veg
+Chicken Breast,165,31,4,0,non-veg
+Dal,120,7,2,20,veg
+Mixed Nuts,200,6,18,8,veg
+Banana,100,1,0,23,veg
+Apple,80,0,0,21,veg
